@@ -24,7 +24,7 @@ A new graduate of Transyvania University.
       * Dean's List
 *   Associate of Science in Computer Science, graduated August 2022
 *   Nashville State Community College, Nashville, TN
-      *College President’s List
+      * College President’s List
 
 
 ## 🛠 Skills
