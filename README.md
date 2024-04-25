@@ -12,7 +12,7 @@ A new graduate of Transyvania University.
 <p align='center'>
    <a href="https://www.linkedin.com/in/romankh3/">
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-   </a>>
+   </a>
 <p align='center'>
    📫 How to reach me: <a href='mailto:acecrawford004@gmail.com'>acecrawford004@gmail.com</a>
 </p>
