@@ -5,8 +5,8 @@ A new graduate of Transyvania University.
    <a href="https://github-readme-stats.vercel.app/api?username=AceCrawford04&show_icons=true&count_private=true"><img
            height=150
            src="https://github-readme-stats.vercel.app/api?username=AceCrawford04&show_icons=true&count_private=true"/></a>
-   <a href="https://github.com/romankh3/github-readme-stats"><img height=150
-                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=romankh3&layout=compact"/></a>
+   <a href="https://github.com/AceCrawford04/github-readme-stats"><img height=150
+                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AceCrawford04&layout=compact"/></a>
 </p>
 
 <p align='center'>
@@ -17,7 +17,7 @@ A new graduate of Transyvania University.
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
 <p align='center'>
-   📫 How to reach me: <a href='mailto:roman.beskrovnyy@gmail.com'>roman.beskrovnyy@gmail.com</a>
+   📫 How to reach me: <a href='mailto:acecrawford004@gmail.com'>acecrawford004@gmail.com</a>
 </p>
 
 
