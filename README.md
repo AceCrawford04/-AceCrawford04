@@ -21,11 +21,14 @@ A new graduate of Transyvania University.
 </p>
 
 
-### Key points
-*   Creator of [CodeGym Community](https://github.com/codegymcommunity) and [Template Repository](https://github.com/template-repository) organizations.
-*   Creator and author of [romankh3](https://t.me/romankh3) Telegram channel. Subscribe to receive messages about my open-source activities.
-*   I write posts about software development.
-*   Currently working in [Epam Systems](https://www.linkedin.com/company/epam-systems/)
+### Education
+*   Bachelor of Arts in Computer Science, expected May 2024
+Transylvania University, Lexington, KY
+Dean’s List
+Associate of Science in Computer Science, graduated August 2022
+Nashville State Community College, Nashville, TN
+College President’s List
+
 
 ## 🛠 Technology Stack
 *   Java/Kotlin/Groovy/COBOL languages
