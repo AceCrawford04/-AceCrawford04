@@ -30,12 +30,17 @@ A new graduate of Transyvania University.
       *College President’s List
 
 
-## 🛠 Technology Stack
-*   Java/Kotlin/Groovy/COBOL languages
-*   MySQL, PostgreSQL, MongoDB, Aurora, DynamoDB, Flyway, Liquibase
-*   Spring Framework, Spring Boot, Spring Test, Spring Data JPA, Spring JDBC template, Spring Cloud Contract and so on...
-*   Camunda, Camunda Cockpit, Camunda Modeler
-*   GitHub/GitLab/Gerrit/Bitbucket
+## 🛠 Skills
+*   Python
+*   C++
+*   Java
+*   Prolog
+*   SQL
+*   Ruby
+*   HTML
+*   C
+*    full-stack development
+
 
 ### My opensource projects
 
