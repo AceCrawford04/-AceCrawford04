@@ -44,7 +44,6 @@ A new graduate of Transyvania University.
 *   Operating Systems
 *   Principles of Programming Languages
 
-
 ## My projects
 
 *   [TUSA](http://www.cs.transy.edu/TUSA/js-login/front/build/)  - A year long group project to create an AI optimized course scheduling assistant based on student preferences 
@@ -54,3 +53,5 @@ A new graduate of Transyvania University.
        <img width="175px" src="https://komarev.com/ghpvc/?username=AceCrawford04&color=DE002D">
    </a>
 </div>
+
+Shout out to [Roman B](https://codegym.cc/groups/posts/589-writing-a-resume-on-github-a-short-guide) for the tutorial on how to make this page!
