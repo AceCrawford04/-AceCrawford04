@@ -21,7 +21,7 @@ A new graduate of Transyvania University.
 </p>
 
 
-### :blue_book: Education
+## :blue_book: Education
 *   Bachelor of Arts in Computer Science, expected May 2024
 *   Transylvania University, Lexington, KY
       * Dean's List
@@ -40,6 +40,8 @@ A new graduate of Transyvania University.
 *   HTML
 *   C
 *    full-stack development
+
+
 
 
 ### My opensource projects
