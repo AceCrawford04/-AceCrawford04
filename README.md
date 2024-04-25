@@ -41,10 +41,14 @@ A new graduate of Transyvania University.
 *   C
 *    full-stack development
 
+## :computer: Relevent Course Work
+*   Database Management Systems
+*   Software Engineering
+*   Operating Systems
+*   Principles of Programming Languages
 
 
-
-### My opensource projects
+## My projects
 
 *   [image-comparison](https://github.com/romankh3/image-comparison) - Published on Maven Central Java Library; it compares 2 images of the same size and shows the differences visually by drawing rectangles. Some parts of the image can be excluded from the comparison.
 *   [CodeGym TelegramBot](https://github.com/codegymcommunity/codegym-telegrambot) - CodeGym Telegram bot from the community to the community
