@@ -23,8 +23,8 @@ A new graduate of Transyvania University.
 
 ### Education
 *   Bachelor of Arts in Computer Science, expected May 2024
-Transylvania University, Lexington, KY
-Dean’s List
+*   Transylvania University, Lexington, KY
+      * Dean's List
 Associate of Science in Computer Science, graduated August 2022
 Nashville State Community College, Nashville, TN
 College President’s List
