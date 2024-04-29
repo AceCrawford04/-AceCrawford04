@@ -6,7 +6,7 @@ A new graduate of Transyvania University.
            height=150
            src="https://github-readme-stats.vercel.app/api?username=AceCrawford04&show_icons=true&count_private=true"/></a>
    <a href="https://github.com/AceCrawford04/github-readme-stats"><img height=150
-                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AceCrawford04&layout=compact"/></a>
+                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AceCrawford04"/></a>
 </p>
 
 <p align='center'>
